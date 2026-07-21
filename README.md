@@ -7,7 +7,7 @@
 
 ## 📖 项目简介
 
-Wallos-APP 是一款基于 [Wallos](https://github.com/ellite/Wallos) 官方 API 开发的第三方 Android 客户端。Wallos 是一款开源、可自托管的个人订阅追踪器，帮助你轻松管理周期性支出、掌握预算并节省开支。
+Wallos-APP 是一款基于 [Wallos](https://github.com/ellite/Wallos) 官方 API 开发的Android 客户端。Wallos 是一款开源、可自托管的个人订阅追踪器，帮助你轻松管理周期性支出、掌握预算并节省开支。
 
 本项目将 Wallos 的核心功能带到了移动端，让你随时随地管理订阅，并在订阅即将到期时收到本地推送提醒。
 
