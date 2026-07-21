@@ -1,7 +1,7 @@
 # Wallos-APP
 
 > 🏠 **Wallos 的专属 Android 伴侣应用** —— 基于 Flutter 构建，专为自托管 Wallos 实例打造。
-Wallos Android APP Client. A private Flutter companion app for self-hosted Wallos instances.
+> Wallos Android APP Client. A private Flutter companion app for self-hosted Wallos instances.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ellite/Wallos/main/screenshots/wallos-dashboard-mobile-light.png" alt="Wallos Preview" width="300"/>
