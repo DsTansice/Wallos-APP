@@ -86,9 +86,7 @@ Wallos-APP 是一款基于 [Wallos](https://github.com/ellite/Wallos) 官方 API
 ### 配置提醒
 
 1. 确保 Wallos 网页端已为订阅设置了提醒时间
-2. 在 APP 中开启「后台同步」和「到期提醒」开关
-3. 授予应用通知权限和后台运行权限
-4. 设置同步频率（建议每天同步一次）
+2. 确保 Wallos 网页端已开启了始终汇率转换
 
 
 ## 📡 API 说明
